@@ -1,1 +1,1 @@
-The file in this directory is a script thta has made executable
+A script that prints the absolute path name of the current working directory
