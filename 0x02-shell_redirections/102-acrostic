@@ -1,2 +1,2 @@
 #!/bin/bash
-echo (cut -cl | -s -d ' ')
+echo $(cut -cl | -s -d "\n")
